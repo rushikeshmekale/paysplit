@@ -1,0 +1,41 @@
+{
+  "name": "PaySplit",
+  "short_name": "PaySplit",
+  "description": "Split expenses effortlessly with friends and groups.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f6fa",
+  "theme_color": "#6d22ed",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Add Expense",
+      "short_name": "Add",
+      "description": "Quickly add a new expense",
+      "url": "/?action=add-expense"
+    }
+  ]
+}
