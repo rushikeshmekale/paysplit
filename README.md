@@ -10,7 +10,7 @@ A modern expense splitting web app inspired by Splitwise. Track balances, split 
 A modern full-stack expense splitting app to manage shared expenses with friends.
 
 ## 🚀 Live Demo
-👉 https://your-app-name.vercel.app
+👉 https://paysplit-nu.vercel.app/
 
 ## ✨ Features
 - 💰 Track net balance
